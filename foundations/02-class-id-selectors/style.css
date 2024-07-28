@@ -1,0 +1,18 @@
+.one,
+.three,
+.five {
+  background-color:  rgba(255, 142, 148, 1);
+  font-family: Verdana, sans-serif; 
+  font-size: 24px;
+}
+
+#two {
+  color: blue;
+  font-size: 36px;
+}
+
+#four {
+  background-color: rgba(144, 238, 144, 1);
+  font-size: 24px;
+  font-weight: bold;
+}
